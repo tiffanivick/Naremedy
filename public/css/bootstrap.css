@@ -9318,3 +9318,19 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+
+/*
+  a.tag-cloud-1:hover, a.tag-cloud-1:active {font-size: 150%;}
+  <p><a class="tag-cloud-1" href="#">Depression</a></p>
+*/
+
+a:hover {
+  background-size: 150%;
+  
+}
+
+.tagcloud {
+  align-content: center;
+  text-align: left;
+}
